@@ -8,6 +8,7 @@
     Name="Kigo.AppSeguridad"
     Publisher="CN=Kigo (Irvin Mitre)"
     Version="1.0.0.0"
+    ProcessorArchitecture="x64"
     Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.msix" />
 
   <UpdateSettings>
