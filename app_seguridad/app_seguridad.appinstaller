@@ -2,13 +2,13 @@
 <AppInstaller
   xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
   Version="1.0.0.0"
-  Uri="https://TU_DOMINIO/app_seguridad/app_seguridad.appinstaller">
+  Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.appinstaller">
 
   <MainPackage
     Name="Kigo.AppSeguridad"
     Publisher="CN=Kigo (Irvin Mitre)"
     Version="1.0.0.0"
-    Uri="https://TU_DOMINIO/app_seguridad/app_seguridad.msix" />
+    Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.msix" />
 
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" />
