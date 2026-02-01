@@ -12,7 +12,7 @@
     Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.msix" />
 
   <UpdateSettings>
-    <OnLaunch HoursBetweenUpdateChecks="0" />
+    <OnLaunch HoursBetweenUpdateChecks="4" />
   </UpdateSettings>
 
 </AppInstaller>
