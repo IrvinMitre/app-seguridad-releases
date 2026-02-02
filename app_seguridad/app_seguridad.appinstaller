@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<AppInstaller
-  xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
-  Version="1.0.0.1"
-  Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.appinstaller">
-
-  <MainPackage
-    Name="Kigo.AppSeguridad"
-    Publisher="CN=Kigo (Irvin Mitre)"
-    Version="1.0.0.1"
-    ProcessorArchitecture="x64"
-    Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.msix" />
-
+<AppInstaller xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2" Version="1.0.0.18" Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.appinstaller">
+  <MainPackage Name="Kigo.AppSeguridad" Publisher="CN=Kigo (Irvin Mitre)" Version="1.0.0.18" ProcessorArchitecture="x64" Uri="https://irvinmitre.github.io/app-seguridad-releases/app_seguridad/app_seguridad.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="4" />
   </UpdateSettings>
-
 </AppInstaller>
